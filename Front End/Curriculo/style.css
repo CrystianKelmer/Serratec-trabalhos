@@ -1,0 +1,27 @@
+.conteiner {
+    color: aqua;
+  }
+button{  height: 100%;
+    background-color: rgba(0, 0, 0, 0.222);
+}
+ul{
+  list-style-position: inside;
+  justify-content: right;
+}
+
+h2{text-align: center;
+}
+h1{text-align: center;
+}
+img{
+  image-rendering: optimizeQuality;
+  border-image-width: 70%;
+  border-image: 60%;
+}
+body{
+  text-align: center;
+}
+.conteiner{
+  border-image-width: 20%;
+  image;
+}

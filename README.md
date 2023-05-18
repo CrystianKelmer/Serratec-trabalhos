@@ -1,2 +1,1 @@
-# teste-aula
-Este exemplo é para usar o clon reposotório remoto para o local
+Aqui ficará meus exercícios e trabalhos feitos em sala de aula 

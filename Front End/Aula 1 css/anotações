@@ -1,0 +1,12 @@
+<!-- ALGUMAS ANOTAÇÕES -->
+
+<!-- 1. HEAD GERALMENTE É UTILIZADO APENAS PARA CONFIGURAÇÕES E NÃO PARA EXIBIÇÃO!!-->
+<!-- 2. ALT+SHIFT+F INDENTA AUTOMATICAMENTE -->
+<!-- 3. CTRL+F5=DEBUG E DÁ RUN // SHIFT + F5 ENCERRA O RUN -->
+<!-- 4. '<style></style>' serve para definir o estilo dentro de um arquivo HTML-->
+<!-- 5. TAG <b> ou <strong>: NEGRITO-->
+<!-- 6. CTRL + SHIFT + K APAGA A LINHA-->
+<!-- 7. CTRL + D SELECIONA VÁRIAS LINHAS-->
+<!-- 8. li = tag para listas!! -->
+<!-- 9. ul = lista não ordenada (ordem não importa) -->
+<!-- 10. ol = lista ordenada (a ordem importa) -->
